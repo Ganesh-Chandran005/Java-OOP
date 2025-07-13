@@ -1,3 +1,6 @@
+/*Author       : Ganesh Chandran
+  Date         : 11-05-2025
+  Description  : Check whether a number is pallindrome or not*/
 import java.util.Scanner;
 
 public class Palliandrome {
