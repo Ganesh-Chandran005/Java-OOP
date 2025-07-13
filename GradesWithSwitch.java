@@ -1,3 +1,6 @@
+/*Author       : Ganesh Chandran
+  Date         : 11-05-2025
+  Description  : Result according to grades using Switch.*/
 import java.util.Scanner;
 
 public class GradesWithSwitch {
