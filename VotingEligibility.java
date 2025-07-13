@@ -1,3 +1,6 @@
+/*Author       : Ganesh Chandran
+  Date         : 11-05-2025
+  Description  : Chacking Voting Eligibility*/
 import java.util.Scanner;
 
 public class VotingEligibility {
