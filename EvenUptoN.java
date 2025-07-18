@@ -1,3 +1,6 @@
+/*Author       : Ganesh Chandran
+  Date         : [Date]
+  Description  : [Question] */
 import java.util.Scanner;
 
 public class EvenUptoN {
